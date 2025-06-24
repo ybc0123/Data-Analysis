@@ -1,3 +1,3 @@
 # Data-Analysis
 
-# IBM Data Analysis Professional Certificate
+IBM Data Analysis Professional Certificate
